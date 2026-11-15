@@ -1,0 +1,6 @@
+@LabSem13DAEA_HostAddress = http://localhost:5056
+
+GET {{LabSem13DAEA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
